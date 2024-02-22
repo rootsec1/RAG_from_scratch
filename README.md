@@ -42,3 +42,14 @@ To run the Streamlit application:
 ```bash
 streamlit run inference.py
 ```
+
+## Screenshots
+
+![Response without RAG](https://github.com/rootsec1/RAG_from_scratch/assets/20264867/93565ea0-738c-4ae0-a184-c6c1e95d0faf)
+*Response without RAG*
+
+![Response with RAG](https://github.com/rootsec1/RAG_from_scratch/assets/20264867/59f5ed9b-404a-4066-a5b6-58f489ababc2)
+*Response with RAG*
+
+![Similarity score](https://github.com/rootsec1/RAG_from_scratch/assets/20264867/94220439-2ccc-482e-a9ac-fbd2c543288f)
+*Similarity score*
