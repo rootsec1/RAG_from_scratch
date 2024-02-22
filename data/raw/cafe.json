@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Brewed Coffee",
+    "description": "Freshly brewed coffee available iced as well",
+    "price": "2.79 small / 2.99 large",
+    "type": "Vegan"
+  },
+  {
+    "name": "Caramel Frappe",
+    "description": "Pure caramel, espresso, milk, fresh whipped cream",
+    "price": "Varies",
+    "type": "Vegetarian"
+  },
+  {
+    "name": "French Beef Panini",
+    "description": "Mills Family Farm grass-fed beef, organic arugula, Swiss, white French",
+    "price": "10.59",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Strawberry Smoothie",
+    "description": "Strawberries, banana, OJ, mixed berries sorbet",
+    "price": "Varies",
+    "type": "Vegetarian"
+  },
+  {
+    "name": "Gelato",
+    "description": "Variety of gelato flavors including Cappuccino, Dolce de Leche, Salted Caramel, and more",
+    "price": "Varies",
+    "type": "Vegetarian"
+  },
+  {
+    "name": "Croque Monsieur Crêpe",
+    "description": "Black forest ham, Swiss, dijonnaise",
+    "price": "8.69",
+    "type": "Non-Vegetarian"
+  }
+]

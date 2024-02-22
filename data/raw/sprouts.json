@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Falafel Wrap",
+    "price": "$8.50",
+    "type": "Vegan"
+  },
+  {
+    "name": "Falafel Bowl",
+    "price": "$10.75",
+    "type": "Vegan"
+  },
+  {
+    "name": "Avocado Toast",
+    "price": "$6.75",
+    "type": "Vegetarian"
+  },
+  {
+    "name": "Cauliflower Wrap",
+    "price": "$8.50",
+    "type": "Vegan"
+  },
+  {
+    "name": "Flatbread",
+    "price": "$8.50",
+    "type": "Vegetarian"
+  },
+  {
+    "name": "Small Salad",
+    "price": "$6.50",
+    "type": "Vegan"
+  },
+  {
+    "name": "Large Salad",
+    "price": "$8.85",
+    "type": "Vegan"
+  },
+  {
+    "name": "Extra Topping",
+    "price": "$1.50",
+    "type": "Vegan"
+  },
+  {
+    "name": "Cold Protein",
+    "price": "$2.50",
+    "type": "Vegetarian"
+  },
+  {
+    "name": "Craving Salmon",
+    "price": "$7.55",
+    "type": "Pescatarian"
+  },
+  {
+    "name": "Daily Entrées",
+    "price": "Single $7.45, with 2 sides $12",
+    "type": "Vegan"
+  },
+  {
+    "name": "Add Pita",
+    "price": "$1.15",
+    "type": "Vegan"
+  },
+  {
+    "name": "Sides",
+    "options": [
+      {
+        "item": "1 side",
+        "price": "$4.55"
+      },
+      {
+        "item": "2 sides",
+        "price": "$7.75"
+      },
+      {
+        "item": "3 sides",
+        "price": "$9.90"
+      },
+      {
+        "item": "4 sides",
+        "price": "$12.40"
+      }
+    ],
+    "type": "Vegan"
+  }
+]

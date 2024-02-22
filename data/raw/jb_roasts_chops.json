@@ -1,0 +1,68 @@
+[
+  {
+    "name": "CARVED TO ORDER",
+    "description": "Includes two sides, choice of signature sauce or butter, & roll",
+    "price": "Varies",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "JB's London Broil",
+    "description": "",
+    "price": "13.99 / 15.99",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Prime Rib",
+    "description": "",
+    "price": "16.99 / 23.99",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Rosemary Rubbed Pork Loin",
+    "description": "",
+    "price": "10.99",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Signature Sauces & Butters",
+    "description": "House Steak Sauce, Shallot & Red Wine Butter, Chimichurri, Tarragon Butter",
+    "price": "0.99",
+    "type": "Vegetarian"
+  },
+  {
+    "name": "SEAFOOD ON THE GRILL",
+    "description": "Includes two sides, choice of signature sauce or butter, & roll",
+    "price": "Varies",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Prime Rib Steak and Cheese",
+    "description": "Sandwich served with one side",
+    "price": "12.49",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Chophouse Burger",
+    "description": "",
+    "price": "11.49",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Loaded \"GOAT\" Cheeseburger",
+    "description": "",
+    "price": "11.99",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Ultimate Grilled Chicken Sandwich",
+    "description": "",
+    "price": "11.99",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "The Smoke House Chopped Salad",
+    "description": "Tomato, cucumber, red pepper, celery, roasted corn, cheddar cheese; chipotle ranch",
+    "price": "7.99",
+    "type": "Vegetarian"
+  }
+]

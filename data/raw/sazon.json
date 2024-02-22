@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Latin Arepa Bowl OR Signature Quesadilla",
+    "description": "Build your own bowl or quesadilla",
+    "price": "Varies",
+    "type": "Varies"
+  },
+  {
+    "name": "Grilled Chicken",
+    "description": "Chicken marinated in chipotle adobo and finished on our grill",
+    "price": "11.89",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Steak",
+    "description": "Seared steak marinated in a citrus garlic sauce and finished on our grill",
+    "price": "13.29",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Carnitas",
+    "description": "Pork shoulder, thoroughly rubbed in adobo, slow-roasted and hand-shredded",
+    "price": "11.89",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Barbacoa",
+    "description": "Seared beef in a blend of herbs, roasted onion, garlic, spices and citrus, slow-roasted for 12 hours",
+    "price": "11.89",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Grilled Portobello (VH)",
+    "description": "Portobello mushrooms marinated with a cumin and paprika-infused marinade and finished on our grill",
+    "price": "11.89",
+    "type": "Vegetarian"
+  },
+  {
+    "name": "Cilantro White Rice",
+    "description": "",
+    "price": "",
+    "type": "Vegan"
+  },
+  {
+    "name": "Brown Rice",
+    "description": "",
+    "price": "",
+    "type": "Vegan"
+  },
+  {
+    "name": "Black Beans",
+    "description": "",
+    "price": "",
+    "type": "Vegan"
+  },
+  {
+    "name": "Guacamole",
+    "description": "",
+    "price": "+2.99",
+    "type": "Vegan"
+  },
+  {
+    "name": "Queso",
+    "description": "",
+    "price": "+2.99",
+    "type": "Vegetarian"
+  }
+]

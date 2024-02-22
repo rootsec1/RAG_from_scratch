@@ -1,0 +1,56 @@
+[
+  {
+    "name": "MISO SOUP",
+    "description": "Starter soup",
+    "price": "2.19",
+    "type": "Vegan"
+  },
+  {
+    "name": "EDAMAME (PODS)",
+    "description": "",
+    "price": "4.19",
+    "type": "Vegan"
+  },
+  {
+    "name": "HOUSE SALAD",
+    "description": "",
+    "price": "4.19",
+    "type": "Vegetarian"
+  },
+  {
+    "name": "BUBBLE TEA",
+    "description": "Matcha, taro, milk tea, mango, or lychee with tapioca pearls",
+    "price": "4.99",
+    "type": "Vegetarian"
+  },
+  {
+    "name": "SASHIMI & NIGIRI",
+    "description": "Choice of tuna, salmon, yellowtail, sushi ebi(shrimp), or eel",
+    "price": "Varies",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "NIGIRI / SASHIMI (2PC)",
+    "description": "2 pcs tuna, 2pcs salmon, and 2 pcs yellowtail",
+    "price": "5.19",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "YUZU SUSHI SALMON",
+    "description": "Seasoned fresh tofu, salmon, crispy onion, and spicy mayo",
+    "price": "10.49",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "SPICY TUNA",
+    "description": "Seasoned fried tofu, spicy tuna, bubu arare, and spicy mayo",
+    "price": "10.29",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "SHRIMP TEMPURA",
+    "description": "Seasoned fried tofu, fried shrimp, crispy onion, green onion, masago, ginger, and eel sauce",
+    "price": "10.29",
+    "type": "Non-Vegetarian"
+  }
+]

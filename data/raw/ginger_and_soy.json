@@ -1,0 +1,237 @@
+[
+  {
+    "category": "Salads",
+    "items": [
+      {
+        "name": "Garden Salad with Ginger Dressing",
+        "price": { "small": "$16", "large": "$30" },
+        "type": "Vegan"
+      },
+      {
+        "name": "Seaweed Salad",
+        "price": { "small": "$20", "large": "$45" },
+        "type": "Vegan"
+      }
+    ]
+  },
+  {
+    "category": "Soups",
+    "items": [
+      {
+        "name": "Miso Soup",
+        "price": { "small": "$16", "large": "$32" },
+        "type": "Vegetarian"
+      }
+    ]
+  },
+  {
+    "category": "Appetizers",
+    "items": [
+      {
+        "name": "Edamame",
+        "price": "$16",
+        "type": "Vegan"
+      },
+      {
+        "name": "Vegetable Dumplings",
+        "price": "$16",
+        "type": "Vegan"
+      },
+      {
+        "name": "Chicken Dumplings",
+        "price": "$16",
+        "type": "Non-Vegetarian"
+      },
+      {
+        "name": "Shrimp Dumplings",
+        "price": "$16",
+        "type": "Pescatarian"
+      },
+      {
+        "name": "BBQ Bun",
+        "price": "$19",
+        "type": "Non-Vegetarian"
+      },
+      {
+        "name": "Fried Spring Roll",
+        "price": "$15",
+        "type": "Non-Vegetarian"
+      }
+    ]
+  },
+  {
+    "category": "Hand Rolls (1pc)",
+    "items": [
+      {
+        "name": "California Hand Roll",
+        "price": "$3.50",
+        "type": "Pescatarian"
+      },
+      {
+        "name": "Veggie Hand Roll",
+        "price": "$3.50",
+        "type": "Vegetarian"
+      },
+      {
+        "name": "Shrimp Tempura Hand Roll",
+        "price": "$3.50",
+        "type": "Pescatarian"
+      },
+      {
+        "name": "Spicy Tuna Hand Roll",
+        "price": "$4.00",
+        "type": "Pescatarian"
+      },
+      {
+        "name": "Spicy Salmon Hand Roll",
+        "price": "$4.00",
+        "type": "Pescatarian"
+      }
+    ]
+  },
+  {
+    "category": "Bowls",
+    "items": [
+      {
+        "name": "Bulgogi Bowl",
+        "price": "$9.50",
+        "type": "Non-Vegetarian"
+      },
+      {
+        "name": "Spicy Pork Bowl",
+        "price": "$9.50",
+        "type": "Non-Vegetarian"
+      },
+      {
+        "name": "Spicy Chicken Bowl",
+        "price": "$9.50",
+        "type": "Non-Vegetarian"
+      },
+      {
+        "name": "Ginger Chicken Bowl",
+        "price": "$9.50",
+        "type": "Non-Vegetarian"
+      },
+      {
+        "name": "Teriyaki Chicken Bowl",
+        "price": "$9.50",
+        "type": "Non-Vegetarian"
+      },
+      {
+        "name": "Teriyaki Salmon Bowl",
+        "price": "$10.50",
+        "type": "Pescatarian"
+      },
+      {
+        "name": "Orange Tofu Bowl",
+        "price": "$8.50",
+        "type": "Vegan"
+      },
+      {
+        "name": "Korean Bibimbap Bowl",
+        "price": "$10.50",
+        "type": "Non-Vegetarian"
+      },
+      {
+        "name": "Bang Bang Shrimp Bowl",
+        "price": "$10.50",
+        "type": "Pescatarian"
+      }
+    ]
+  },
+  {
+    "category": "Poke Bowls",
+    "items": [
+      {
+        "name": "Salmon Poke Bowl",
+        "price": "$10.50",
+        "type": "Pescatarian"
+      },
+      {
+        "name": "Tuna Poke Bowl",
+        "price": "$10.50",
+        "type": "Pescatarian"
+      },
+      {
+        "name": "Crawfish Poke Bowl",
+        "price": "$12.50",
+        "type": "Pescatarian"
+      },
+      {
+        "name": "Chicken Salad Poke Bowl",
+        "price": "$10.50",
+        "type": "Non-Vegetarian"
+      },
+      {
+        "name": "Mixed Sashimi Poke Bowl",
+        "price": "$13.00",
+        "type": "Pescatarian"
+      }
+    ]
+  },
+  {
+    "category": "Catering Party Options",
+    "items": [
+      {
+        "name": "Party of 10",
+        "price": "$100.00",
+        "details": "Choice of rice, 2 entrees, 2 sides, 1 dessert"
+      },
+      {
+        "name": "Party of 30",
+        "price": "$290.00",
+        "details": "Choice of rice, 3 entrees, 2 sides, 1 dessert"
+      },
+      {
+        "name": "Party of 50",
+        "price": "$450.00",
+        "details": "Choice of rice, 4 entrees, 3 sides, 1 dessert"
+      }
+    ]
+  },
+  {
+    "category": "Side Selections",
+    "items": [
+      {
+        "name": "Garden Salad w/ Ginger Dressing",
+        "price": "Included in catering set",
+        "type": "Vegan"
+      },
+      {
+        "name": "Vegetable Spring Roll",
+        "price": "Included in catering set",
+        "type": "Vegetarian"
+      },
+      {
+        "name": "Stir-Fried Vegetables",
+        "price": "Included in catering set",
+        "type": "Vegan"
+      },
+      {
+        "name": "Daily Dessert",
+        "price": "Included in catering set",
+        "type": "Varies"
+      }
+    ]
+  },
+  {
+    "category": "Desserts",
+    "items": [
+      {
+        "name": "Chocolate Chip Cookies",
+        "price": "Varies",
+        "type": "Vegetarian"
+      },
+      {
+        "name": "Seasonal Fruits",
+        "price": "Varies",
+        "type": "Vegan"
+      },
+      {
+        "name": "Mochi",
+        "price": "Varies",
+        "type": "Vegetarian"
+      }
+    ]
+  }
+]

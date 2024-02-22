@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Freshly Brewed Coffee & Tea",
+    "description": "Hot or Iced Coffee, Hot Tea",
+    "price": "Varies",
+    "type": "Vegan"
+  },
+  {
+    "name": "Cold Drinks",
+    "description": "Unsweetened Iced Tea",
+    "price": "Varies",
+    "type": "Vegan"
+  },
+  {
+    "name": "Smoothies",
+    "description": "Mango with Greek Yogurt, Strawberry Banana with Greek Yogurt, Strawberry with Greek Yogurt, Green Passion Non-Dairy",
+    "price": "Varies",
+    "type": "Vegetarian/Non-Dairy"
+  },
+  {
+    "name": "Green Goddess Cobb with Chicken",
+    "description": "Salad",
+    "price": "Varies",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Southwest Caesar with Chicken",
+    "description": "Salad",
+    "price": "Varies",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Mac & Cheese",
+    "description": "",
+    "price": "Varies",
+    "type": "Vegetarian"
+  },
+  {
+    "name": "Turkey Chili",
+    "description": "Soup",
+    "price": "Varies",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Bacon Avocado Melt",
+    "description": "Sourdough Melt",
+    "price": "Varies",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Southwest Chicken Melt",
+    "description": "Sourdough Melt",
+    "price": "Varies",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Green Goddess Caprese Melt",
+    "description": "Sourdough Melt",
+    "price": "Varies",
+    "type": "Vegetarian"
+  }
+]

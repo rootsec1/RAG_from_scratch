@@ -1,0 +1,50 @@
+[
+  {
+    "name": "CARVED TO ORDER",
+    "description": "Includes two sides, choice of signature sauce or butter, & roll",
+    "price": "Varies",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "BONE-IN WINGS",
+    "description": "5 count or 10 count",
+    "price": "6.25 / 11.99",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "BONELESS WINGS",
+    "description": "4 count or 8 count",
+    "price": "6.25 / 11.99",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "SAUCES",
+    "description": "Mild Buffalo, Hot Buffalo, Hot Garlic, Hot Honey, Sweet BBQ, Garlic Parmesan",
+    "price": "",
+    "type": "Varies"
+  },
+  {
+    "name": "SANDWICHES",
+    "description": "Served with one side",
+    "price": "Varies",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "SALADS",
+    "description": "The Smoke House Chopped Salad, The Wedge, Classic Caesar, Fennel and Apple",
+    "price": "Varies",
+    "type": "Vegetarian"
+  },
+  {
+    "name": "CHEF-INSPIRED PASTAS",
+    "description": "Served with a garlic breadstick",
+    "price": "11.89",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "FRESH PASTAS",
+    "description": "Your pasta, your way - choose your favorite sauce and pasta + one protein + three veggies",
+    "price": "11.89",
+    "type": "Varies"
+  }
+]

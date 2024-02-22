@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Farm Fresh Breakfast",
+    "description": "Includes eggs cooked to order, meat options, and toast or biscuits with gravy.",
+    "price": "$3 - $9",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Paw Paw's Pancake Platter",
+    "description": "Pancakes served with eggs cooked to order and choice of meat.",
+    "price": "$10",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Sausage and Biscuit",
+    "description": "Buttermilk biscuit with sausage patty.",
+    "price": "$3",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Create Your Own Omelette",
+    "description": "Omelette with choice of fillings including meats, vegetables, and cheeses.",
+    "price": "$3.99 - $6.98",
+    "type": "Vegetarian/Non-Vegetarian"
+  },
+  {
+    "name": "Chicken Fried Steak",
+    "description": "Cubed steak, battered and fried, served with white pepper gravy.",
+    "price": "$14",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Grilled Chicken Salad",
+    "description": "Salad with grilled chicken, avocado, crispy bacon, chopped eggs, and more.",
+    "price": "$11",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Local Fav Chicken Fried Steak",
+    "description": "Hand-battered cube steak, fried with gravy.",
+    "price": "$14",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Boneless Black Angus Ribeye",
+    "description": "Hand-cut and seasoned ribeye steak.",
+    "price": "Market price",
+    "type": "Non-Vegetarian"
+  }
+]

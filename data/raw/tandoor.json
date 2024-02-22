@@ -1,0 +1,68 @@
+[
+  {
+    "name": "NON-VEGETARIAN COMBO",
+    "description": "Two Proteins, One Vegetable, Rice, & Two Pieces of Naan",
+    "price": "11.89",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "VEGETARIAN COMBO",
+    "description": "Three Vegetable Servings, Rice, & Two Pieces of Naan",
+    "price": "10.89",
+    "type": "Vegetarian"
+  },
+  {
+    "name": "Sada Dosai",
+    "description": "",
+    "price": "8.59",
+    "type": "Vegan"
+  },
+  {
+    "name": "Vegetable Dosai",
+    "description": "",
+    "price": "10.29",
+    "type": "Vegetarian"
+  },
+  {
+    "name": "Masala Dosai",
+    "description": "",
+    "price": "10.29",
+    "type": "Vegetarian"
+  },
+  {
+    "name": "Chicken Dosai",
+    "description": "",
+    "price": "11.49",
+    "type": "Non-Vegetarian"
+  },
+  {
+    "name": "Naan",
+    "description": "",
+    "price": "2.49",
+    "type": "Vegan"
+  },
+  {
+    "name": "Garlic Naan",
+    "description": "",
+    "price": "3.79",
+    "type": "Vegan"
+  },
+  {
+    "name": "Vegetable Samosa",
+    "description": "",
+    "price": "4.99",
+    "type": "Vegan"
+  },
+  {
+    "name": "Mango Lassi",
+    "description": "",
+    "price": "3.99",
+    "type": "Vegetarian"
+  },
+  {
+    "name": "DAILY DEVIL DEAL",
+    "description": "Chana Masala with Rice & Naan",
+    "price": "5.00",
+    "type": "Vegan"
+  }
+]
