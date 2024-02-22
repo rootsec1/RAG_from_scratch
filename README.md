@@ -37,9 +37,10 @@ The system's performance is evaluated based on the quality of responses generate
 
 ## Usage
 
-To run the Streamlit application:
+Install the package and run the Streamlit application:
 
 ```bash
+pip install -r requirements.txt
 streamlit run inference.py
 ```
 
